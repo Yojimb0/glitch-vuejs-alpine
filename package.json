@@ -1,5 +1,5 @@
 {
-  "name": "vuejs-alpine",
+  "name": "vuejs-boilerplate",
   "version": "0.0.1",
   "description": "My app",
   "author": "You",
@@ -8,7 +8,7 @@
     "start": "webpack && node server.js"
   },
   "dependencies": {
-    "express": "^4.15.3",
+    "express": "^4.16.4",
     "vue": "^2.5.17",
     "vue-template-compiler": "^2.5.17"
   },

@@ -1,4 +1,4 @@
-# vuejs-alpine
+# vuejs-boilerplate
 
 *Updated Decamber 2018*
 
